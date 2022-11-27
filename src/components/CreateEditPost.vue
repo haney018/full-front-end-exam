@@ -1,5 +1,4 @@
 <script setup>
-import { onMounted } from 'vue'
 import { ref } from '@vue/reactivity'
 import { usePostStore } from '@/stores/post'
 import { Dialog, DialogPanel, DialogTitle, TransitionChild, TransitionRoot } from '@headlessui/vue'
